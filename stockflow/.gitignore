@@ -1,4 +1,4 @@
-api/.env
+# Environment variables
 client/.env
 
 api/vendor/
